@@ -1,15 +1,9 @@
-JOÃO EDUARDO — DESENVOLVIMENTO WEB — V1
+JOÃO EDUARDO — DESENVOLVIMENTO WEB — V3
 
-Arquivos:
-- index.html
-- style.css
-- script.js
-- divulgacao.png
+Correções:
+- removido o texto pequeno que aparecia sobre a prévia do projeto ROBERTT;
+- ACHOU! mantido como segundo projeto do portfólio;
+- links dos dois projetos mantidos;
+- cache atualizado para V3.
 
-WhatsApp configurado:
-(48) 99694-2186
-
-Todos os botões de orçamento e o formulário abrem diretamente o WhatsApp.
-O portfólio já contém o projeto ROBERTT Serviços Mecânicos.
-
-Para publicar no GitHub Pages, envie todos os arquivos para a raiz do repositório e ative o Pages.
+Substitua TODOS os arquivos do repositório pelo conteúdo desta pasta e aguarde o GitHub Pages atualizar.
